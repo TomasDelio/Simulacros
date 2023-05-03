@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\usuario\desktop\simula2res\pila.c
+	"pila.h"
+
+1490112217 c:\users\usuario\desktop\simula2res\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1683123890 source:c:\users\usuario\desktop\simula2res\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
