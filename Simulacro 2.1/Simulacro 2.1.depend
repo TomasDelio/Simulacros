@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686180698 source:c:\users\usuario\desktop\programas progrmacion\simulacro 2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
